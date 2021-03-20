@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1> "AIR QUALITY INDEX"</h1>
+      <h1> "Sanyam"</h1>
     </div>
   );
 }
