@@ -25,7 +25,7 @@ const PageFooter = () => {
         </BackTop>
       </div>
       </div>
-      <div className="copyright">Copyright &copy; 2020 aqiapp</div>
+      <div className="copyright">Copyright &copy; 2021 airIndex</div>
     </div>
   );
 }

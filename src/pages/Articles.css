@@ -6,6 +6,40 @@
   /* border-top: solid red 5px; */
   /* border-top-left-radius: 5px; */
   width: 500%;
-  padding-top: 20%;
+  padding-top: 7%;
+  padding-left: 14%;
   height:250rem;
+  }
+
+  .articles-background h1{
+    padding-left: 6%;
+    padding-bottom: 2%;
+  }
+
+  .article{
+    color: #010017;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 5rem;
+  }
+
+  .art1{
+    width: 40vw;
+  }
+
+  .art1 p{
+    padding-top: 1rem;
+    
+  }
+
+  .art2{
+   padding-left: 8rem;
+   padding-top: 3rem;
+   
+  }
+
+  .art1 button {
+    background:#010017;
+    color: white;
+    text-decoration: cornsilk;
   }

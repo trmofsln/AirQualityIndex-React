@@ -1,6 +1,9 @@
 import React from "react";
 import './OurTeam.css'
 
+
+
+
 const teamDetail = [
   {
     id: "p1",
@@ -25,7 +28,18 @@ const teamDetail = [
 const OurTeam = () => {
   return (
     <div className="ourteam-background">
+      <div className="teammate">
+    
       <h1> {teamDetail[0].name} </h1>
+      </div>
+      <div className="teammate">
+  
+      <h1> {teamDetail[1].name} </h1>
+      </div>
+      <div className="teammate">
+      
+      <h1> {teamDetail[2].name} </h1>
+      </div>
     </div>
   );
 };

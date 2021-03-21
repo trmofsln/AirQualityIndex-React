@@ -6,6 +6,35 @@
   /* border-top: solid red 5px; */
   /* border-top-left-radius: 5px; */
   width: 500%;
-  padding-top: 20%;
+  padding-top: 8%;
+  padding-left: 5%;
   height:180rem;
+  }
+
+
+  .home-background h1{
+          font-family: cursive;
+          font-size: 3.4rem;
+          padding-bottom: 1rem;
+          padding-left: 1.7%;
+  }
+
+  .home-background h2{
+    font-family: cursive;
+    font-size: 3.4rem;
+    padding-left: 5.5%;
+    padding-bottom: 4rem;
+}
+
+  .home-background p{
+    
+    width: 16%;
+    font-size: larger;
+    text-align: center;
+    color: #010017;
+    padding-left: 2.3%;
+  }
+
+  .aqi-form{
+    padding-top: 6rem;
   }

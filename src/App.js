@@ -48,11 +48,8 @@ function App() {
       <Header>
         <NavBar />
       </Header>
-      
-      
       <Content>
         {routes}
-        {/* <img src={backimg} /> */}
       </Content>
       <Footer>
         <PageFooter />  
