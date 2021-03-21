@@ -25,10 +25,10 @@ const NavBar = () => {
         </div>
         <div className="mobileHidden">
           <Anchor targetOffset="65">
-            <Link href="#hero" title="Home" />
-            <Link href="#feature" title="Services" />
-            <Link href="#about" title="About" />
-          
+            <Link href="/" title="Home:AQI" />
+            <Link href="/articles" title="Articles" />
+            <Link href="/ourteam" title="Our Team" />
+
           </Anchor>
         </div>
         <div className="mobileVisible">
@@ -42,13 +42,9 @@ const NavBar = () => {
             visible={visible}
           >
             <Anchor targetOffset="65">
-              <Link href="#hero" title="Home" />
-              <Link href="#feature" title="Services" />
-              <Link href="#about" title="About" />
-              {/* <Link href="#works" title="How it works" /> */}
-              {/* <Link href="#faq" title="FAQ" /> */}
-              {/* <Link href="#pricing" title="Pricing" /> */}
-              <Link href="#contact" title="ContactUs" />
+              <Link href="/" title="Home:AQI" />
+              <Link href="/articles" title="Articles" />
+              <Link href="/ourteam" title="Our Team" />
             </Anchor>
           </Drawer>
         </div>

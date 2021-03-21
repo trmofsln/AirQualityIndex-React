@@ -10,7 +10,7 @@ const PageFooter = () => {
       <div className="footer">
         <div className="logo">
           <i className="fas fa-bolt"></i>
-          <a href="/">JallaLabs</a>
+          <a href="/">Air Index</a>
         </div>
         <ul className="socials">
           <li><a href="https://www.facebook.com/"><i className="fab fa-facebook-f"></i></a></li>

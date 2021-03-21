@@ -1,3 +1,4 @@
+@import '~antd/dist/antd.css';
 .App {
   text-align: center;
 }
@@ -9,7 +10,7 @@ general
 body {
   font-size: 16px;
   line-height: 1.6;
-  color: #333;
+  color: #010017;
   overflow-x: hidden;
 }
 
@@ -71,7 +72,7 @@ header
 ------ 
 */
 .ant-layout-header {
-  position: fixed;
+  /* position: fixed; */
   left: 0;
   right: 0;
   z-index: 999;
@@ -97,11 +98,12 @@ header
 }
 
 .header .logo a {
-  color: #333;
+  color: #010017;
   text-transform: none;
   text-decoration: none;
   font-weight:900;
 }
+
 
 .header .ant-anchor-wrapper {
   background: none;
@@ -159,7 +161,7 @@ header
 
 .header .ant-menu li.ant-menu-item {
   position: relative;
-  color: #333;
+  color: #010017
 }
 
 .header .ant-menu li.ant-menu-item:before,
@@ -397,7 +399,7 @@ footer
 ------
 */
 .ant-layout-footer {
-  background: #111 !important;
+  background: #A60200 !important;
   color: #fff !important;
   padding: 60px 0 !important;
   text-align: center;
@@ -421,7 +423,7 @@ footer
 
 .footer .logo a {
   color: #fff;
-  margin-left: 17rem;
+  /* margin-left: 17rem; */
   text-transform: none;
   text-decoration: none;
 }

@@ -1,0 +1,11 @@
+.ourteam-background{
+    border-top-left-radius: 2%;
+    border-top-right-radius: 90%;
+  background-image: url(../assets/redleaf.jpg);
+  padding-bottom: 5%;
+  /* border-top: solid red 5px; */
+  /* border-top-left-radius: 5px; */
+  width: 500%;
+  padding-top: 20%;
+  height:250rem;
+  }
