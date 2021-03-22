@@ -8,7 +8,8 @@
   width: 500%;
   padding-top: 7%;
   padding-left: 14%;
-  height:250rem;
+  height:180rem;
+  background-position-y: center;
   }
 
   .articles-background h1{
@@ -39,7 +40,7 @@
   }
 
   .art1 button {
-    background:#010017;
+    /* background:#010017; */
     color: white;
     text-decoration: cornsilk;
   }

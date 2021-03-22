@@ -9,11 +9,11 @@ const HomePage = () => {
     <div className="home-background">
       <h1>
       
-        <spam>"</spam>Be a part of the <spam style={{ color: "green" }}>SOLUTION</spam>,
+        <spam>“</spam>Be a part of the <spam style={{ color: "#000a2f" }}>SOLUTION</spam>,
       </h1>
       <h2>
         
-        Not a part of the <spam style={{ color: "red" }}>POLLUTION</spam><spam>"</spam>
+        Not a part of the <spam style={{ color: "#a60200" }}>POLLUTION</spam><spam>”</spam>
       </h2>
 
       <p>

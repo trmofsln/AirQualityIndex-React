@@ -1,18 +1,120 @@
 .ourteam-background{
     border-top-left-radius: 2%;
     border-top-right-radius: 90%;
-  background-image: url(../assets/redleaf.jpg);
+  background-image: url(../assets/mountain.jpg);
   padding-bottom: 5%;
   /* border-top: solid red 5px; */
   /* border-top-left-radius: 5px; */
   width: 500%;
   padding-top: 15%;
   padding-left: 26%;
-  height:250rem;
+  height:160rem;
+  /* background-position-y: center; */
   
   }
 
-  .teammate h1{
+  .team-heading{
+    color: #010017;
+    font-weight: 400;
+    font-size: -webkit-xxx-large;
+    text-decoration-line: underline;
+    position: absolute;
+    top: 13%;
+    left: 45%;
+  }
+
+  .teammate{
+    border-top: solid #010017 2px;
+    border-left: solid #010017 3px;
+    border-radius:24px;
+    padding:5px;
+    width:40rem;
+    height:20rem;
+  }
+
+  .teammate-h1{
     
-    color:red
+    color: #A60200;
+  }
+
+  .teammate-h3{
+    
+    width:80%;
+    color: #fbf9ff;
+    font-weight: 100;
+  }
+
+  .person1{
+    position:absolute;
+    top:35%;
+    left:25%;
+    transform: scale(1.2);
+  }
+
+  .person2{
+    position:absolute;
+    /* top:120%; */
+    top: 100%;
+    left:48%;
+    transform: scale(1.2);
+  }
+
+  .person3{
+    position:absolute;
+    /* top:230%; */
+    top: 165%;
+    left:10%;
+    transform: scale(1.2);
+  }
+
+  .team-img{
+    height: 105%;
+    position: relative;
+    /* border-right: ridge; */
+    left: 65%;
+    margin-top: -47%;
+  }
+
+  .team-imgraman{
+    height: 105%;
+    position: relative;
+    /* border-right: ridge; */
+    left: 70%;
+    margin-top: -40%;
+  }
+
+  .class-detail{
+    color: #010017;
+  }
+
+  .team-bottomh1{
+    color: #010017;
+    font-size: 70px;
+    font-weight:bold;
+    position: absolute;
+    top:240%;
+    /* top: 360%; */
+    left: 13%;
+  }
+
+  .team-bottomh2{
+    /* color: #010017; */
+    color: #A60200;
+    font-size: 55px;
+    font-weight:bold;
+    position: absolute;
+    /* top: 380%; */
+    top:255%;
+    left: 13%;
+  }
+
+  .team-bottomh3{
+    /* color: #010017; */
+    color: #A60200;
+    font-size: 45px;
+    font-weight:bold;
+    position: absolute;
+    /* top: 395%; */
+    top:265%;
+    left: 13%;
   }
