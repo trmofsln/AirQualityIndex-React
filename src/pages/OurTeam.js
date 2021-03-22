@@ -41,7 +41,7 @@ const OurTeam = () => {
       <h1 className="teammate-h1"> {teamDetail[1].name} </h1>
       <h3 className="teammate-h3"> {teamDetail[1].review}</h3>
       <h1 className="class-detail" > B.tech 5th Sem (CSE)</h1>
-      <h1 className="class-detail" > Enroll : U1851068</h1>
+      <h1 className="class-detail" > Enroll : U1851069</h1>
       <img className="team-img" src={yashimg} />
       </div>
       <div className="teammate person3">
